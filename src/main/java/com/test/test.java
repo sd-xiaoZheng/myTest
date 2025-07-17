@@ -6,7 +6,11 @@ package com.test;
  **/
 public class test {
     public static void main(String[] args) {
-        int a=10000;
-        System.out.println(a>>3);
+        int a=10000,i=0,j=0,k=0;
+
+        System.out.println(a>>1);//就是获取一半
+        System.out.println(++i);
+        System.out.println(j++);
+        System.out.println(k+=1);
     }
 }

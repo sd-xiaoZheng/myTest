@@ -69,5 +69,13 @@
       <artifactId>javacv-platform</artifactId>
       <version>1.5.5</version>
     </dependency>
+
+
+    <!--MQTT-->
+    <dependency>
+      <groupId>org.eclipse.paho</groupId>
+      <artifactId>org.eclipse.paho.client.mqttv3</artifactId>
+      <version>1.2.5</version>
+    </dependency>
   </dependencies>
 </project>
